@@ -45,12 +45,12 @@ paginate        = 6
 
 [[menu.main]]
   name = "Home"
-  url = "/dashboard/"
+  url = "/content/dashboard/"
   weight = 200
 
 [[menu.main]]
   name = "Challenge of the Week"
-  url = "/tags/challenge/"
+  url = "/content/challenge/"
   weight = 100
 
 [[menu.main]]
@@ -65,12 +65,12 @@ paginate        = 6
 
   [[menu.main]]
   name = "Archive"
-  url = "/tags/archive/"
+  url = "/content/post/past-projects.md/"
   weight = 130
 
 [[menu.main]]
   name = "Class Directory"
-  url = "/tags/classroom/"
+  url = "/content/post/classroom.md/"
   weight = 140
 
 [[menu.main]]
