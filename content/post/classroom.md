@@ -1,5 +1,5 @@
 ---
-title: "Class Directory"
+title: "Our Class Directory"
 date: 2019-03-17T23:17:23+01:00
 cover: "classmates.jpeg"
 draft: false
