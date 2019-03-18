@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dashboard on Tech, Data and Innovation</title>
-    <link>/tags/dashboard/</link>
+    <link>https://sponsore.github.io/techproject_final/tags/dashboard/</link>
     <description>Recent content in Dashboard on Tech, Data and Innovation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 09 Mar 2019 10:15:09 +0100</lastBuildDate>
     
-	<atom:link href="/tags/dashboard/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sponsore.github.io/techproject_final/tags/dashboard/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>/</link>
+      <link>https://sponsore.github.io/techproject_final/</link>
       <pubDate>Sat, 09 Mar 2019 10:15:09 +0100</pubDate>
       
-      <guid>/</guid>
+      <guid>https://sponsore.github.io/techproject_final/</guid>
       <description>Welcome to Tech, Data and the Innovation Mindset! 
 This course explores the profound changes triggered by the emergence of a data-driven economy – from the review of core data technologies to new business approaches developed in the Silicon Valley.
 Read more on the content, objectives and assessment criteria of the course in the syllabus.

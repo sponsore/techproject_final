@@ -2,75 +2,75 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Tech, Data and Innovation</title>
-    <link>/tags/</link>
+    <link>https://sponsore.github.io/techproject_final/tags/</link>
     <description>Recent content in Tags on Tech, Data and Innovation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 21 Feb 2019 12:41:41 +0100</lastBuildDate>
     
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sponsore.github.io/techproject_final/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Archive</title>
-      <link>/tags/archive/</link>
+      <link>https://sponsore.github.io/techproject_final/tags/archive/</link>
       <pubDate>Thu, 21 Feb 2019 12:41:41 +0100</pubDate>
       
-      <guid>/tags/archive/</guid>
+      <guid>https://sponsore.github.io/techproject_final/tags/archive/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Challenge</title>
-      <link>/tags/challenge/</link>
+      <link>https://sponsore.github.io/techproject_final/tags/challenge/</link>
       <pubDate>Mon, 04 Mar 2019 19:10:05 +0100</pubDate>
       
-      <guid>/tags/challenge/</guid>
+      <guid>https://sponsore.github.io/techproject_final/tags/challenge/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Classroom</title>
-      <link>/tags/classroom/</link>
+      <link>https://sponsore.github.io/techproject_final/tags/classroom/</link>
       <pubDate>Sun, 17 Mar 2019 23:17:23 +0100</pubDate>
       
-      <guid>/tags/classroom/</guid>
+      <guid>https://sponsore.github.io/techproject_final/tags/classroom/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dashboard</title>
-      <link>/tags/dashboard/</link>
+      <link>https://sponsore.github.io/techproject_final/tags/dashboard/</link>
       <pubDate>Sat, 09 Mar 2019 10:15:09 +0100</pubDate>
       
-      <guid>/tags/dashboard/</guid>
+      <guid>https://sponsore.github.io/techproject_final/tags/dashboard/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Speakers</title>
-      <link>/tags/speakers/</link>
+      <link>https://sponsore.github.io/techproject_final/tags/speakers/</link>
       <pubDate>Thu, 21 Feb 2019 11:21:48 +0100</pubDate>
       
-      <guid>/tags/speakers/</guid>
+      <guid>https://sponsore.github.io/techproject_final/tags/speakers/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Syllabus</title>
-      <link>/tags/syllabus/</link>
+      <link>https://sponsore.github.io/techproject_final/tags/syllabus/</link>
       <pubDate>Sat, 09 Mar 2019 11:37:05 +0100</pubDate>
       
-      <guid>/tags/syllabus/</guid>
+      <guid>https://sponsore.github.io/techproject_final/tags/syllabus/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tutorials</title>
-      <link>/tags/tutorials/</link>
+      <link>https://sponsore.github.io/techproject_final/tags/tutorials/</link>
       <pubDate>Sun, 03 Mar 2019 16:15:09 +0100</pubDate>
       
-      <guid>/tags/tutorials/</guid>
+      <guid>https://sponsore.github.io/techproject_final/tags/tutorials/</guid>
       <description></description>
     </item>
     

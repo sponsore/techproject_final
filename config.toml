@@ -1,5 +1,5 @@
 
-baseURL = ""
+baseURL = "https://sponsore.github.io/techproject_final/"
 languageCode = "en-us"
 title = "Tech, Data and Innovation"
 publishDir = "docs"
