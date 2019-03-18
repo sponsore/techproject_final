@@ -31,7 +31,7 @@ Course representative: Watze Malter, watze.malter@hec.edu
 * Would really love to climb the mount everest this summer... Hit me up if you need piano lessons.
 * Add me on [GitHub](https://github.com/utshasaha) or [Instagram](https://www.instagram.com/utshasaha/) !
 
-![This is me](/utsha.jpg)
+![This is me](utsha.jpg)
 
 </body>
 
