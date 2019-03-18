@@ -2,8 +2,8 @@
 baseURL = ""
 languageCode = "en-us"
 title = "Tech, Data and Innovation"
-
-baseurl         = "/"
+publishDir = "docs"
+baseurl         = ""
 theme           = "casper-two"
 disqusShortname = ""
 paginate        = 6
