@@ -65,7 +65,7 @@ paginate        = 6
 
   [[menu.main]]
   name = "Archive"
-  url = "/tags/past-projects/"
+  url = "/tags/archive/"
   weight = 130
 
 [[menu.main]]
