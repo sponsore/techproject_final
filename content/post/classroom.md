@@ -20,7 +20,7 @@ Course representative: Watze Malter, watze.malter@hec.edu
 * Add me on [GitHub](https://github.com/henriettasa) or [Instagram](https://www.instagram.com/henriettavs/) !
 
 
-![This is me](/henriettasa.jpg)
+![This is me](/static/henriettasa.jpg)
 </body>
 
 ###### Utsha Saha
